@@ -1,0 +1,8 @@
+{
+  "name": "proxy-file-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "sidgo",
+  "license": "ISC"
+}
